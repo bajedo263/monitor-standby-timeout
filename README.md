@@ -20,6 +20,4 @@ Ce mode configure les paramètres de gestion de l'alimentation pour une utilisat
 - Le script doit être exécuté en tant qu'administrateur pour modifier les paramètres de gestion de l'alimentation.
 - Assurez-vous de sauvegarder votre travail avant de modifier les paramètres de gestion de l'alimentation, car cela peut entraîner la mise en veille de l'ordinateur.
 
-## Auteur
-Ce script a été créé par [insérer votre nom ou pseudo ici].
 
